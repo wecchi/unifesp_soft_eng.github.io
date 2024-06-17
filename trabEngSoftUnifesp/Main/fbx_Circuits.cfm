@@ -1,0 +1,1 @@
+<cfset fusebox.circuits.Home = ".">
